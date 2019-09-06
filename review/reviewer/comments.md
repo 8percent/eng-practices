@@ -2,14 +2,13 @@
 
 
 
-## Summary
+## 개요
 
--   Be kind.
--   Explain your reasoning.
--   Balance giving explicit directions with just pointing out problems and
-    letting the developer decide.
--   Encourage developers to simplify code or add code comments instead of just
-    explaining the complexity to you.
+-   상냥하게 리뷰하세요.
+-   의견의 근거를 설명하세요.
+-   수정할 사항을 명시적으로 지시하는 것과 단순히 문제를 지적하고 개발자가 알아서 판단게 하는 것 사이의 균형을 잘 잡으세요.
+-   단순히 너무 복잡하다고만 말하기보다는, 코드를 간결하게 작성하고 주석을 추가할 수 있도록 조언하세요.
+
 
 ## Courtesy
 
