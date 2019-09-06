@@ -1,10 +1,6 @@
-# Google Engineering Practices Documentation
+# 구글 엔지니어링 관례 문서
 
-Google has many generalized engineering practices that cover all languages and
-all projects. These documents represent our collective experience of various
-best practices that we have developed over time. It is possible that open source
-projects or other organizations would benefit from this knowledge, so we work to
-make it available publicly when possible.
+구글은 모든 언어와 모든 프로젝트에서 포괄적으로 적용되는 여러 개의 일반화된 엔지니어링 관례를 갖추고 있습니다. 이 프로젝트는 오랜 시간동안 발전시켜 온 최선 사례를 모은 우리의 집단 경험을 문서로 정리한 것입니다. 이는 오픈소스 프로젝트 등의 다양한 조직에 도움이 될 수 있으므로, 때가 되면 대중에 공개할 수 있도록 작업합니다.
 
 Currently this contains the following documents:
 
@@ -13,7 +9,7 @@ Currently this contains the following documents:
     *   [The Code Reviewer's Guide](review/reviewer/index.md)
     *   [The Change Author's Guide](review/developer/index.md)
 
-## Terminology
+## 용어
 
 There is some Google-internal terminology used in some of these documents, which
 we clarify here for external readers:
@@ -24,7 +20,7 @@ we clarify here for external readers:
 *   **LGTM**: Means "Looks Good to Me." It is what a code reviewer says when
     approving a CL.
 
-## License
+## 사용허가
 
 The documents in this project are licensed under the CC-By 3.0 License, which
 encourages you to share these documents. See
