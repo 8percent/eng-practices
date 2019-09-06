@@ -5,8 +5,8 @@
 현재 포함된 문서:
 
 *   [구글의 코드 리뷰 가이드라인](review/index.md) (다음 두 벌의 문서로 구성)
-    *   [코드 리뷰를 하는 사람을 위한 안내서](review/reviewer/index.md)
-    *   [코드 리뷰를 받는 사람을 위한 안내서](review/developer/index.md)
+    *   [코드 리뷰를 하는 사람을 위한 문서](review/reviewer/index.md)
+    *   [코드 리뷰를 받는 사람을 위한 문서](review/developer/index.md)
 
 ## 용어
 
